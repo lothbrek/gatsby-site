@@ -18,7 +18,7 @@
     "autoprefixer": "9.7.4",
     "babel-eslint": "10.1.0",
     "cssnano": "4.1.10",
-    "gatsby": "2.19.22",
+    "gatsby": "4.25.7",
     "gatsby-image": "2.2.41",
     "gatsby-plugin-manifest": "2.2.42",
     "gatsby-plugin-offline": "3.0.35",
